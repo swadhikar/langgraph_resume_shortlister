@@ -1,0 +1,20 @@
+Jane Smith
+jane.smith@email.com
+(987) 654-3210
+
+Summary
+Experienced Software Engineer with a primary background in Java and 5 years of experience in building enterprise applications. Also possesses working knowledge of Python and related technologies, seeking opportunities to leverage both skill sets.
+
+Skills
+Java (Expert), Spring (Expert), RESTful APIs (Proficient), MySQL (Proficient), Python (Intermediate), Flask (Intermediate), Git (Proficient), Shell Scripting (Intermediate)
+
+Experience
+Software Engineer, Enterprise Systems Ltd. (2020 - Present)
+- Developed and maintained Java-based enterprise applications using Spring framework.
+- Designed and implemented RESTful APIs.
+
+Junior Developer, Software House (2018 - 2020)
+- Worked on various projects involving Java and some Python scripting.
+
+Education
+Bachelor of Technology in Information Technology, Institute ABC (2014 - 2018)

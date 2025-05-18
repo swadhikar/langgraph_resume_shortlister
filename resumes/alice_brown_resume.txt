@@ -1,0 +1,20 @@
+Alice Brown
+alice.brown@email.com
+(111) 222-3333
+
+Summary
+Senior Software Engineer with 7 years of experience primarily focused on C++ and embedded systems. Possesses some familiarity with scripting languages and is open to transitioning to Python-focused roles.
+
+Skills
+C++ (Expert), Embedded Systems (Expert), Linux (Proficient), Bash (Proficient), Python (Basic), Git (Proficient)
+
+Experience
+Senior Embedded Software Engineer, Hardware Innovations Inc. (2018 - Present)
+- Designed and developed software for embedded systems using C++.
+
+Software Engineer, Electronics Corp. (2016 - 2018)
+- Worked on firmware development.
+
+Education
+Master of Science in Electrical Engineering, University GHI (2014 - 2016)
+Bachelor of Engineering in Electrical Engineering, University JKL (2010 - 2014)

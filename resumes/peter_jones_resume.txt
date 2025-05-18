@@ -1,0 +1,17 @@
+Peter Jones
+peter.jones@email.com
+(555) 123-4567
+
+Skills
+Python (Proficient), Flask (Proficient), RESTful APIs (Proficient), SQLite (Proficient), Git (Proficient), Shell Scripting (Basic)
+
+Experience
+Python Developer, Web Solutions Co. (2022 - Present)
+- Developed and deployed web applications using Python and Flask.
+- Created and consumed RESTful APIs.
+
+Junior Programmer, Tech Startup (2020 - 2022)
+- Assisted senior developers in Python-based projects.
+
+Education
+Bachelor of Engineering in Computer Engineering, College DEF (2016 - 2020)
